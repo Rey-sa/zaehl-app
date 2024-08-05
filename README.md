@@ -1,6 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple exercise to learn basic react functions while programming a counter Button. Covered:
+
+1. Compounds
+2. JSX
+3. States
+4. Props
 
 Currently, two official plugins are available:
 
